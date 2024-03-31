@@ -1,4 +1,6 @@
 **By @elnescau_**
+- Bot is in Portuguese, if you want it in your language you must make the changes manually.
+
 # DiscordJS 🌊
 It's a library for **Node.js**, powerful for creating Discord bots.
 
