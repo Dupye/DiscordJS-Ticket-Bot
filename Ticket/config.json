@@ -1,0 +1,22 @@
+{
+  "prefix": ".",
+  "token": "YOUR_BOT_TOKEN",
+  "ready": "STATUS_MESSAGE",
+  "color": "#005aff",
+  "title": "EMBED_TITLE",
+  "description": "> **To ask any questions, report product issues, or anything similar, Open a Ticket!**",
+  "thumbnail": "THUMBNAIL_LINK",
+  "footer": "YOUR_STORE | All rights reserved.",
+  "emoji": "DECORATIVE_EMPLOYEE_ID",
+  "emoji1": "SHOPPING_CART_EMOJI",
+  "emoji2": "STAR_RATING_EMOJI",
+  "emoji3": "DECORATIVE_EMOJI",
+  "emoji4": "QUESTION_EMOJI",
+  "logs": "LOGS_CHANNEL_ID",
+  "avaliacao": "RATING_CHANNEL_ID",
+  "sugestao": "SUGGESTION_CHANNEL_ID",
+  "categoria": "TICKET_CATEGORY_ID",
+  "suporte": "SUPPORT_CHANNEL_ID",
+  "cliente": "CLIENT_ROLE_ID",
+  "duvida": "QUESTION_CHANNEL"
+}
